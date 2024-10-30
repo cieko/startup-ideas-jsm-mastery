@@ -10,8 +10,8 @@
   },
   "packageManager": "npm@10.9.0",
   "overrides": {
-    "react": "$react",
-    "react-dom": "$react-dom"
+    "react": "19.0.0-rc-02c0e824-20241028",
+    "react-dom": "19.0.0-rc-02c0e824-20241028"
   },
   "dependencies": {
     "react": "19.0.0-rc-02c0e824-20241028",
